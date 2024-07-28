@@ -1,6 +1,6 @@
 <div align="center">
 # Hi there, I'm Malcolm!
-I am a 13 year-old living in New Zealand! I like to code in `HTML`, `CSS`, `JavaScript`, `Java` and a litle `C`.
+I am a 13 year-old living in New Zealand! I like to code in HTML, CSS, JavaScript, Java and a litle C.
 
 I am good at:
 <p align="center">
