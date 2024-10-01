@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Malcolm!</h1>
-  <p>I am a 14 year-old living in Australia! I like to code in HTML, CSS, JavaScript, TypeScript, Java, a litle C and I am learning swift.</p>
+  <p>I am a 14 year-old living in Australia! I like to code in HTML, CSS, JavaScript, TypeScript, Java, a litle C and I am learning Swift.</p>
   <p>Languages I Know:</p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:top; margin:6px">
