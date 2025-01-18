@@ -1,0 +1,28 @@
+{
+	"files.autoSave": "onFocusChange",
+	"git.enableSmartCommit": true,
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"supermaven.enable": {
+		"*": true,
+		"markdown": true
+	},
+	"supermaven.enableFixWithSupermaven": true,
+	"supermaven.allowGitignore": false,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"prettier.htmlWhitespaceSensitivity": "strict",
+	"lldb.library": "/home/malcolm/swift/usr/lib/liblldb.so",
+	"lldb.launch.expressions": "native",
+	"telemetry.telemetryLevel": "off",
+	"workbench.settings.applyToAllProfiles": ["editor.fontFamily"],
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+	"prettier.quoteProps": "consistent",
+	"prettier.bracketSameLine": false,
+	"prettier.bracketSpacing": true,
+	"prettier.printWidth": 75
+}
