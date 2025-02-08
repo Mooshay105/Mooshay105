@@ -1,28 +1,31 @@
 {
+	/* General Configuration */
+	"telemetry.telemetryLevel": "off",
+	/* File Management Configuration */
 	"files.autoSave": "onFocusChange",
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": true,
+	/* Version Control Configuration */
 	"git.enableSmartCommit": true,
 	"git.autofetch": true,
 	"git.confirmSync": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	/* SuperMaven Configuration */
 	"supermaven.enable": {
-		"*": true,
-		"markdown": true
+		"*": true
 	},
-	"supermaven.enableFixWithSupermaven": true,
+	"supermaven.enableFixWithSupermaven": false,
 	"supermaven.allowGitignore": false,
-	"explorer.confirmDelete": false,
-	"explorer.confirmDragAndDrop": false,
-	"prettier.htmlWhitespaceSensitivity": "strict",
+	/* LLDB Configuration */
 	"lldb.library": "/home/malcolm/swift/usr/lib/liblldb.so",
 	"lldb.launch.expressions": "native",
-	"telemetry.telemetryLevel": "off",
-	"workbench.settings.applyToAllProfiles": ["editor.fontFamily"],
-	"diffEditor.ignoreTrimWhitespace": false,
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"editor.formatOnSave": true,
+	/* Formatting Configuration */
 	"prettier.trailingComma": "all",
 	"prettier.useTabs": true,
 	"prettier.quoteProps": "consistent",
 	"prettier.bracketSameLine": false,
 	"prettier.bracketSpacing": true,
-	"prettier.printWidth": 75
+	"prettier.printWidth": 90,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true
 }
