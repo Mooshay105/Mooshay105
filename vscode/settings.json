@@ -1,25 +1,19 @@
 {
-	/* General Configuration */
 	"telemetry.telemetryLevel": "off",
-	/* File Management Configuration */
 	"files.autoSave": "onFocusChange",
 	"explorer.confirmDelete": false,
 	"explorer.confirmDragAndDrop": true,
-	/* Version Control Configuration */
 	"git.enableSmartCommit": true,
 	"git.autofetch": true,
 	"git.confirmSync": false,
 	"diffEditor.ignoreTrimWhitespace": false,
-	/* SuperMaven Configuration */
 	"supermaven.enable": {
 		"*": true
 	},
 	"supermaven.enableFixWithSupermaven": false,
 	"supermaven.allowGitignore": false,
-	/* LLDB Configuration */
 	"lldb.library": "/home/malcolm/swift/usr/lib/liblldb.so",
 	"lldb.launch.expressions": "native",
-	/* Formatting Configuration */
 	"prettier.trailingComma": "all",
 	"prettier.useTabs": true,
 	"prettier.quoteProps": "consistent",
