@@ -14,11 +14,11 @@ Malcolm Hauser
 
 ## GOOGLE CYBERSECURITY
 
-## **Certificate: https://coursera.org/share/3d7eb85ea356a12056e6651702ea5e6e**
+**Certificate: https://coursera.org/share/3d7eb85ea356a12056e6651702ea5e6e**
 
 ## GOOGLE UX DESIGN
 
-## **Certificate: Working on It.**
+**Certificate: Working on It.**
 
 # Coding Projects
 
@@ -31,7 +31,7 @@ Malcolm Hauser
 
 ## DHPAINTING
 
-## *Data Entry, July 2025–present*
+### *Data Entry, July 2025–present*
 
 * Managed and accurately entered sign-off sheet data into a spreadsheet.  
 * Demonstrated initiative by researching population centers to optimize marketing efforts.  
@@ -40,7 +40,7 @@ Malcolm Hauser
 
 ## THE MINERS KITCHEN
 
-## *Front of House, February 2024–November 2024*
+### *Front of House, February 2024–November 2024*
 
 * Provided excellent service, greeting and assisting customers.  
 * Efficiently took orders, communicated with kitchen staff, and ensured timely delivery of food.  
