@@ -14,11 +14,11 @@ Malcolm Hauser
 
 ## GOOGLE CYBERSECURITY
 
-**Certificate: https://coursera.org/share/3d7eb85ea356a12056e6651702ea5e6e**
+## **Certificate: https://coursera.org/share/3d7eb85ea356a12056e6651702ea5e6e**
 
 ## GOOGLE UX DESIGN
 
-**Certificate: Working on It.**
+## **Certificate: Working on It.**
 
 # Coding Projects
 
@@ -29,20 +29,26 @@ Malcolm Hauser
 
 # Professional Experience
 
-## DHPAINTING
+## JR HUASER TRUST \- DHPAINTING
 
-### *Data Entry, July 2025–present*
+## *Data Entry, July 2025–present*
 
 * Managed and accurately entered sign-off sheet data into a spreadsheet.  
 * Demonstrated initiative by researching population centers to optimize marketing efforts.  
-* Collected and organized valuable email leads to support marketing campaign development.  
-* Consistently received praise for excellent communication and taking initiative in work tasks.
+* Collected and organized valuable email leads to support marketing campaign development.
+
+## JR HUASER TRUST \- GABBA SPORTING PRODUCTS
+
+## *Frontend Development July 2025–present*
+
+* Migrated three legacy WordPress sites into a unified Next.js monorepo  
+* Consolidated fragmented frontend codebases into a single, maintainable architecture  
+* Modernised the frontend stack from WordPress to Next.js
 
 ## THE MINERS KITCHEN
 
-### *Front of House, February 2024–November 2024*
+## *Front of House, February 2024–November 2024*
 
 * Provided excellent service, greeting and assisting customers.  
 * Efficiently took orders, communicated with kitchen staff, and ensured timely delivery of food.  
-* Addressed customer inquiries and resolved any complaints or issues to maintain satisfaction.  
-* Worked closely with colleagues to ensure smooth operation during busy periods.
+* Addressed customer inquiries and resolved any complaints or issues to maintain satisfaction.
